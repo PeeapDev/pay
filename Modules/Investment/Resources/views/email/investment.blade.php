@@ -1,0 +1,1 @@
+{!! $receiverInfo['message'] !!}

@@ -1,0 +1,51 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #121212;
+}
+hr {
+    border-top: 1px solid #f0f0f0;
+}
+table {
+    border-collapse: collapse;
+}
+.code td {
+    padding: 5px;
+}
+.main-div{
+    width: 900px;
+    margin: auto;
+    top: 20px;
+    position: relative;
+}
+.table{
+    margin-bottom: 40px;
+}
+.title{
+    font-size: 16px;
+    color: #000000;
+    line-height: 25px;
+    font-weight: bold;
+}
+.text{
+    font-size: 15px;
+    color: #4e5c6e;
+    line-height: 22px;
+}
+.table2{
+    margin-top: 20px;
+    width: 300px;
+}
+.detail-title{
+    font-size: 16px;
+    color: #000000;
+    font-weight: bold;
+}
+.invest-amount-title{
+    font-size: 15px;
+    color: #000000;
+}
+.invest-amount-text{
+    font-size: 15px;
+    color: #4e5c6e;
+    text-align: right;
+}

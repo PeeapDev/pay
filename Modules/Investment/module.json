@@ -1,0 +1,16 @@
+{
+    "name": "Investment",
+    "alias": "investment",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "version": "2.1.1",
+    "providers": [
+        "Modules\\Investment\\Providers\\InvestmentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Entities/helper.php"
+    ],
+    "requires": []
+}
