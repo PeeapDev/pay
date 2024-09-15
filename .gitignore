@@ -23,4 +23,4 @@ yarn-error.log
 _ide_helper.php
 docker-compose.override.yml
 *.dat
-*.mtx.json
+*.mtx.json.DS_Store
