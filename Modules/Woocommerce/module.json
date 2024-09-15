@@ -1,0 +1,14 @@
+{
+    "name": "Woocommerce",
+    "alias": "woocommerce",
+    "description": "Get payments from your customers securely, easily and directly using Paymoney Wallet.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Woocommerce\\Providers\\WoocommerceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version": "2.0.0"
+}
