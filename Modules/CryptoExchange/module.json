@@ -1,0 +1,16 @@
+{
+    "name": "CryptoExchange",
+    "alias": "cryptoexchange",
+    "description": "User's can change crypto to fiat and fiat to crypto by the crypto exchange module.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CryptoExchange\\Providers\\CryptoExchangeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Entities/helper.php"
+    ],
+    "requires": [],
+    "version": "2.2.2"
+}
