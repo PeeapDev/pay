@@ -1,62 +1,74 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Peeap Pay
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://peeap.com" target="_blank">
+    <img src="https://ai.peeap.com/public/uploads/20241118/762a26e4fc46abdc0982dbe776d3d750.png" width="1000" alt="Peeap Pay Logo">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <a href="<!-- Add video URL here -->" target="_blank">
+    <img src="https://img.shields.io/badge/demo-watch%20video-blue" alt="Watch Demo Video">
+  </a>
+  <a href="https://peeap.com"><img src="https://img.shields.io/badge/platform-Peeap-brightgreen" alt="Platform"></a>
+  <a href="https://github.com/peeap/peeap"><img src="https://img.shields.io/github/stars/peeap/peeap" alt="GitHub Stars"></a>
+  <a href="https://github.com/peeap/peeap/releases"><img src="https://img.shields.io/github/v/release/peeap/peeap" alt="Latest Release"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## About Peeap Pay
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Peeap Pay is an innovative and secure payment gateway that simplifies financial transactions in Sierra Leone and beyond. It’s built to serve businesses, governments, and individuals, enabling seamless payments with cutting-edge features tailored to local and global needs. Peeap Pay combines reliability, scalability, and flexibility to meet the demands of a diverse user base.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Key Features:
+- **Multi-channel Payments**: Supports mobile money platforms like Orange Money and Africell, alongside traditional payment methods such as credit cards.
+- **Seamless Integration**: Easy integration with e-commerce platforms, SaaS applications, and custom solutions using Peeap Pay APIs.
+- **Advanced Reporting**: Provides detailed transaction insights to help businesses track their income and growth.
+- **Multi-currency Support**: Enables transactions in local currencies and international payments.
+- **Enhanced Security**: Implements strong encryption standards for safe and secure transactions.
 
-## Learning Laravel
+### Peeap Pay Services:
+1. **E-commerce Payments**: Simplify online shopping with secure checkout solutions.
+2. **Mobile Money Integration**: Integrates with Orange Money and Africell for quick payments.
+3. **School Payments**: Helps schools manage tuition fees, donations, and other financial transactions.
+4. **Government Solutions**: Streamlines tax collection and fund disbursement for government projects.
+5. **Custom APIs**: Offers REST APIs for businesses to integrate Peeap Pay into their own platforms.
+6. **Vendor Management**: Supports multi-vendor marketplaces with tools to manage payments and commissions.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Peeap Pay is designed to empower businesses and institutions with the tools they need to thrive in the digital economy.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## Download and Install
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Follow these steps to download and install Peeap Pay from GitHub:
 
-### Premium Partners
+### Prerequisites:
+- **Git**: [Install Git](https://git-scm.com/downloads)
+- **Composer**: [Install Composer](https://getcomposer.org/download/)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/)**
-- **[OP.GG](https://op.gg)**
+### Installation Steps:
 
-## Contributing
+Run the following commands in your terminal or command prompt:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+```bash
+# Clone the repository
+git clone https://github.com/peeap/peeap.git
 
-## Code of Conduct
+# Navigate to the project directory
+cd peeap
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+# Install dependencies
+composer install
 
-## Security Vulnerabilities
+# Copy .env.example to .env
+cp .env.example .env
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+# Generate application key
+php artisan key:generate
 
-## License
+# Run database migrations (optional, if required)
+php artisan migrate
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Start the development server
+php artisan serve
