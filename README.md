@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="<!-- Add video URL here -->" target="_blank">
+  <a href="https://pay.peeap.com" target="_blank">
     <img src="https://img.shields.io/badge/demo-watch%20video-blue" alt="Watch Demo Video">
   </a>
   <a href="https://peeap.com"><img src="https://img.shields.io/badge/platform-Peeap-brightgreen" alt="Platform"></a>
