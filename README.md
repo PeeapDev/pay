@@ -1,13 +1,13 @@
 # Peeap Pay
 
 <p align="center">
-  <a href="https://peeap.com" target="_blank">
+  <a href="https://pay.peeap.com/home" target="_blank">
     <img src="https://ai.peeap.com/public/uploads/20241118/762a26e4fc46abdc0982dbe776d3d750.png" width="1000" alt="Peeap Pay Logo">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://pay.peeap.com" target="_blank">
+  <a href="https://pay.peeap.com/home" target="_blank">
     <img src="https://img.shields.io/badge/demo-watch%20video-blue" alt="Watch Demo Video">
   </a>
   <a href="https://peeap.com"><img src="https://img.shields.io/badge/platform-Peeap-brightgreen" alt="Platform"></a>
