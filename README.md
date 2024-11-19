@@ -17,6 +17,9 @@
 </p>
 
 ## About Peeap Pay
+**Demo Login:** https://my.peeap.com/login
+**UserName:** demomerchant@peeap.com
+**Password:** 123456
 
 Peeap Pay is an innovative and secure payment gateway that simplifies financial transactions in Sierra Leone and beyond. It’s built to serve businesses, governments, and individuals, enabling seamless payments with cutting-edge features tailored to local and global needs. Peeap Pay combines reliability, scalability, and flexibility to meet the demands of a diverse user base.
 
