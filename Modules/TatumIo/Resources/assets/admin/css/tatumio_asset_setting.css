@@ -1,8 +1,0 @@
-.network-exist-error, .address-validation-error {
-    color: red;
-    font-weight: bold;
-}
-
-.display-spinner {
-    display: none;
-}

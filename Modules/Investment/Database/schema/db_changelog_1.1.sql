@@ -1,3 +1,0 @@
-INSERT INTO `permissions` (`group`, `name`, `display_name`, `description`, `user_type`, `created_at`, `updated_at`) VALUES ( 'Investment Profit Approve', 'add_profit_approve', NULL, NULL, 'Admin', '2023-01-05 03:25:06', '2023-01-05 03:25:06'),
-( 'Investment Profit Approve', 'edit_profit_approve', NULL, NULL, 'Admin', '2023-01-05 03:25:06', '2023-01-05 03:25:06'),
-( 'Investment Profit Approve', 'delete_profit_approve', NULL, NULL, 'Admin', '2023-01-05 03:25:06', '2023-01-05 03:25:06');
