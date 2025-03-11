@@ -1,10 +1,6 @@
 # Peeap Pay
 
-<p align="center">
-  <a href="https://pay.peeap.com/home" target="_blank">
-    <img src="https://ai.peeap.com/public/uploads/20241118/762a26e4fc46abdc0982dbe776d3d750.png" width="1000" alt="Peeap Pay Logo">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://pay.peeap.com/home" target="_blank">
@@ -16,11 +12,7 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
-## About Peeap Pay
-**Demo Login:** https://my.peeap.com/login
-**UserName:** demomerchant@peeap.com
-**Password:** 123456
-## here is our pitch deck  **canva** https://www.canva.com/design/DAFyS_KZjws/Pm-SCXdar37rekQ79aZibg/view?utm_content=DAFyS_KZjws&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 
 Peeap Pay is an innovative and secure payment gateway that simplifies financial transactions in Sierra Leone and beyond. It’s built to serve businesses, governments, and individuals, enabling seamless payments with cutting-edge features tailored to local and global needs. Peeap Pay combines reliability, scalability, and flexibility to meet the demands of a diverse user base.
 
