@@ -1,0 +1,26 @@
+<table class="custom-table">
+    <thead>
+        <tr>
+            <th>{{ __("web_trx_id") }}</th>
+            <th>{{ __("Transaction Type") }}</th>
+            {{-- <th>{{ __("Transaction Amount") }}</th> --}}
+            <th>{{ __("Profit Amount") }}</th>
+            <th>{{ __("Time") }}</th>
+        </tr>
+    </thead>
+    <tbody>
+        @forelse ($profits?? [] as $item)
+            <tr>
+                <td>{{ $item->transactions->trx_id }}</td>
+                <td>{{$item->transactions->type }}</td>
+                <td>{{ get_amount($item->total_charge,$item->transactions->creator_wallet->currency->code, get_wallet_precision($item->transactions->creator_wallet->currency))}}</td>
+                <td>{{ $item->created_at->format("Y-m-d h:i A") }}</td>
+            </tr>
+        @empty
+        @include('admin.components.alerts.empty',['colspan' => 5])
+        @endforelse
+    </tbody>
+</table>
+@push('script')
+
+@endpush
