@@ -1,0 +1,46 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+*.log.*
+
+# Ignore vendor folder (Composer dependencies)
+vendor/
+
+# Ignore environment files (for secrets)
+.env
+.env.local
+.env.*.local
+
+# Ignore compiled files
+*.class
+*.phar
+*.pyc
+*.o
+*.out
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore Laravel specific files (if applicable)
+storage/
+public/storage/
+
+# Ignore PHPUnit coverage reports
+coverage/
+phpunit.result.cache
+
+# Ignore Composer files that aren't required
+composer.lock
+
+# Ignore cache files
+.cache/
+tmp/
